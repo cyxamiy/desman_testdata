@@ -1,0 +1,4 @@
+NZ_CP077205.1 Acinetobacter pittii strain FDAARGOS 1398 chromosome, complete genome
+NZ_CP069586.1 Acinetobacter pittii strain FDAARGOS_1216 chromosome, complete genome
+NZ_CP035109.1 Acinetobacter pittii strain NQ-003 chromosome, complete genome
+NZ_CP029489.1 Acinetobacter pittii strain 2010C01-170 chromosome, complete genome
